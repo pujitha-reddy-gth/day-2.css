@@ -1,0 +1,27 @@
+.container{
+    width: 90%;
+    height: 500px;
+    border: 2px solid rebeccapurple;
+    margin-left: 100px;
+    padding-left: 50px;
+}
+.item-1, .item-2 , .item-3, .item-4{
+    display: table-cell;
+    width: 250px;
+    /*height: 400px;*/
+    padding-right: 30px;
+   /* border: 2px solid green;*/
+}
+img{
+    width: 100% ;
+}
+.item-5{
+    width: 20px;
+    height:30px;
+}
+h3{
+    text-align:center
+}
+p{
+  text-align:center  
+}
